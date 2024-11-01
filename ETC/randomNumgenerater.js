@@ -4,4 +4,5 @@ function pickRandomPerson() {
   return people[randomIndex];
 }
 
+
 console.log(pickRandomPerson());
